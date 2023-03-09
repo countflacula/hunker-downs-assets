@@ -1,0 +1,149 @@
+v1.2.10
+<size=18>- changelog loaded via remote strings
+- posters loaded via remote image loading
+- stage shield added
+- remotely loaded access control file
+- smol DJs can have uppies</size>
+
+v1.2.9
+<size=18>- Progress on bathroom continues
+- Bar area has been opened up to create a balcony
+- Lighting system overhaul using shader-based colour switching
+- DJ UI redesign (WIP)</size>
+
+v1.2.8
+<size=18>- Broader access to stage systems via hardcoded allowlist
+- Event posters updated
+- New countdown system implemented for event posters
+- Bar controls, remaining quantity counters now use TextMeshPro
+- Fixing up club audio source, lemme know if it's unreasonably loud!</size>
+
+v1.2.7
+<size=18>-DOORS</size>
+
+v1.2.6
+<size=18>-VRSL updated to v2.0
+- AudioLink updated to v0.2.8
+- Minor bug fixes
+- Light colour system update</size>
+
+v1.2.5
+<size=18>- Skybox improvements
+- Small fixes to VRSL lighting groups
+- Someone must've powerwashed all the graffiti...
+- New convenient streamer buttons on video player</size>
+
+v1.2.5
+<size=18>- New animated spotlights
+- Some assets moved around
+- Dancefloor patterns (currently only one and not-configurable)</size>
+
+v1.2.4
+<size=18>- Minor control UI improvements
+- Removed a phantom spotlight
+- Fixed a bug in the laser light animators that prevented certain colours from activating</size>
+
+v1.2.3
+<size=18>- New Lasers on the dancefloor (makes use of animators to control different properties)
+- Lots of new visualizations located on the secondary screens
+- Animations can be cycled automatically</size>
+
+v1.2.2
+<size=18>- Convert many text objects to TextMeshPro for readability
+- Some text still using old system because no Udon hooks yet for TMP
+- DJ booth UI redesign complete
+- Bar Lanterns updated with UV and textures
+- New stage screens with new visuals
+- Bloom sliders!</size>
+
+v1.2.1
+<size=18>- Mysterious performance gains (was it the subfrequencies logo all along?)
+- UI Overhaul! (so much red)
+- Settings terminals remodeled
+- One word: mist
+- Dancefloor fog retexture
+- DJ Controller now has LOD</size>
+
+v1.2.0
+<size=18>- Added new beer bottle varieties
+- Due to an unfortunate incident, beer bottles will no longer break
+- Fixed AudioLink UI
+- Added bloom slider
+- Fixed disabling colliders</size>
+
+v1.1.0
+<size=18>- Even NEWER Laser shaders
+- Club lights are divided into various groups that can be controlled independently
+- Resync button located in front of the stage
+- UI element sounds are less "ouchy" (hopefully)
+- AMD GPU users rejoice, maybe the video stream won't stutter? switched off low-latency mode</size>
+
+v1.0.11
+<size=18>- New Laser shaders add a fog effect
+- Stage Mirror
+- Active player list in the DJ area
+- Took out the middle "computer" and replaced it with a DJ controller (3d asset created by MaxTht on SketchFab)
+- New UI designs</size>
+
+v1.0.11
+<size=18>- New UI on stage, use the navigation arrows to access other controls
+- Updates to some NPCs
+- AudioLink v0.2.7
+- VRSL blinders now watch the colour theme of the rest of the lights
+- New visuals and screens on either side of the main screen, can be changed using center console
+- Controls are locked out for all except instance owner</size>
+
+v1.0.10
+<size=18>- Lights galore!
+- Switched to shader-based AudioLinked lights using Mochie's Uber Shader on dancefloor
+- Upgrade to AudioLink v0.2.6</size>
+
+v1.0.9
+<size=18>- Fixes for minor graphical issues</size>
+
+v1.0.8
+<size=18>- Settings terminals UIs synced
+- Various UIs given sound effects
+- Ambient sound effects added
+- Bar tables now have stools to sit on
+- Colliders are toggleable
+- Dancefloor camera available on stage</size>
+
+v1.0.7
+<size=18>- Upgraded for Unity 2019
+- New DJ Booth UI
+- Improved beer bottle spawning
+- Improved bottle smashing
+- More prominent settings terminals</size>
+
+v1.0.6
+<size=18>- Added Glowsticks
+- Significantly reduced filesize
+- Using Bakery for lightmapping</size>
+
+v1.0.5
+<size=18>- Performance IMPROVEMENTS
+- NEW NPCs</size>
+
+v1.0.4
+<size=18>- Performance "Improvements"
+- VR-friendly fog
+- New NPCs</size>
+
+v1.0.3
+<size=18>- Bar's open! but we don't got any drinks
+- FOG
+- AudioLink Updated to v0.2.4
+- Dimmable house lights
+- Vandalism</size>
+
+v1.0.2
+<size=18>- AudioLink controls in the DJ booth
+- UI elements improved
+- Dancefloor light system improved
+- LAZORZ</size>
+
+v1.0.1
+<size=18>- Now using AudioLink for sound-reactive lights
+- Graffiti!
+- Sweet new UI elements</size>
