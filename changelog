@@ -1,3 +1,8 @@
+v1.2.11
+<size=18>- event posters have been consolidated into a map meaning all 4 are loaded simultaneously
+- fixed audiolink controller failing on load
+- found some objects that were not static that really should have been</size>
+
 v1.2.10
 <size=18>- changelog loaded via remote strings
 - posters loaded via remote image loading
